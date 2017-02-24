@@ -18,8 +18,8 @@
   "homepage": "https://github.com/pgte/pouch-websocket-sync-example",
   "dependencies": {
     "browserify": "^14.1.0",
+    "readable-stream": "^2.2.3",
     "serve": "^3.4.1",
-    "through2": "^2.0.3",
-    "webpack": "^1.14.0"
+    "webpack": "^2.0.0"
   }
 }
